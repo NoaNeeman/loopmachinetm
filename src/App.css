@@ -28,6 +28,68 @@
   color: #61dafb;
 }
 
+.rhap_volume-bar-area {
+  display: none !important;
+}
+
+button.rhap_button-clear.rhap_repeat-button {
+  display: none !important;
+}
+
+.hp_slide{
+  width:100%;
+  background:white;
+  height:25px;
+}
+.hp_range{
+  width:0;
+  background:black;
+  height:25px;
+}
+
+button {
+  color: black!important;
+}
+
+.rhap_progress-indicator {
+  background: black !important;
+}
+
+input {
+  margin: 20px;
+  font-size: large;
+  background: antiquewhite;
+  box-shadow: 2px 2px 5px black;
+  border-radius: 5px;
+  padding: 5px;
+  font-weight: 700;
+}
+
+.MuiFormGroup-root.css-dmmspl-MuiFormGroup-root {
+  margin: 0px auto;
+  justify-content: center;
+  align-items: center;
+  margin-bottom: 20px;
+}
+
+span.MuiTypography-root {
+  font-weight: 700;
+  font-size: large;
+}
+
+.divAudio {
+  position: absolute;
+  border-right: 1px solid black;
+  margin-left: 73px;
+  height: 90px; 
+  top: 0px; 
+  box-shadow: 2px 2px 7px black;
+}
+
+.player {
+  position: relative;
+}
+
 @keyframes App-logo-spin {
   from {
     transform: rotate(0deg);
