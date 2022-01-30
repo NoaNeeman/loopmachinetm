@@ -1,24 +1,24 @@
 {
   "files": {
-    "main.css": "/static/css/main.1ee42e98.css",
-    "main.js": "/static/js/main.a2d1c63a.js",
-    "static/js/787.66a1ac30.chunk.js": "/static/js/787.66a1ac30.chunk.js",
-    "static/media/ALL TRACK.mp3": "/static/media/ALL TRACK.0fa4445ea8455a4babf4.mp3",
-    "static/media/B VOC.mp3": "/static/media/B VOC.5ffa9906c5972f1fb03c.mp3",
-    "static/media/DRUMS.mp3": "/static/media/DRUMS.f0332952662d2e1f5d15.mp3",
-    "static/media/HE HE VOC.mp3": "/static/media/HE HE VOC.fd659059c1d55320658f.mp3",
-    "static/media/JIBRISH.mp3": "/static/media/JIBRISH.d23f0b604ef55163d7e6.mp3",
-    "static/media/LEAD 1.mp3": "/static/media/LEAD 1.f8658c330b3d07661550.mp3",
-    "static/media/UUHO VOC.mp3": "/static/media/UUHO VOC.bc87006a5f29b4cfa918.mp3",
-    "static/media/_tambourine_shake_higher.mp3": "/static/media/_tambourine_shake_higher.2ceb47bfdbea6e81aae9.mp3",
-    "static/media/logo.svg": "/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
-    "index.html": "/index.html",
-    "main.1ee42e98.css.map": "/static/css/main.1ee42e98.css.map",
-    "main.a2d1c63a.js.map": "/static/js/main.a2d1c63a.js.map",
-    "787.66a1ac30.chunk.js.map": "/static/js/787.66a1ac30.chunk.js.map"
+    "main.css": "/loopmachinetm/static/css/main.1ee42e98.css",
+    "main.js": "/loopmachinetm/static/js/main.dafad096.js",
+    "static/js/787.66a1ac30.chunk.js": "/loopmachinetm/static/js/787.66a1ac30.chunk.js",
+    "static/media/ALL TRACK.mp3": "/loopmachinetm/static/media/ALL TRACK.0fa4445ea8455a4babf4.mp3",
+    "static/media/B VOC.mp3": "/loopmachinetm/static/media/B VOC.5ffa9906c5972f1fb03c.mp3",
+    "static/media/DRUMS.mp3": "/loopmachinetm/static/media/DRUMS.f0332952662d2e1f5d15.mp3",
+    "static/media/HE HE VOC.mp3": "/loopmachinetm/static/media/HE HE VOC.fd659059c1d55320658f.mp3",
+    "static/media/JIBRISH.mp3": "/loopmachinetm/static/media/JIBRISH.d23f0b604ef55163d7e6.mp3",
+    "static/media/LEAD 1.mp3": "/loopmachinetm/static/media/LEAD 1.f8658c330b3d07661550.mp3",
+    "static/media/UUHO VOC.mp3": "/loopmachinetm/static/media/UUHO VOC.bc87006a5f29b4cfa918.mp3",
+    "static/media/_tambourine_shake_higher.mp3": "/loopmachinetm/static/media/_tambourine_shake_higher.2ceb47bfdbea6e81aae9.mp3",
+    "static/media/logo.svg": "/loopmachinetm/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
+    "index.html": "/loopmachinetm/index.html",
+    "main.1ee42e98.css.map": "/loopmachinetm/static/css/main.1ee42e98.css.map",
+    "main.dafad096.js.map": "/loopmachinetm/static/js/main.dafad096.js.map",
+    "787.66a1ac30.chunk.js.map": "/loopmachinetm/static/js/787.66a1ac30.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.1ee42e98.css",
-    "static/js/main.a2d1c63a.js"
+    "static/js/main.dafad096.js"
   ]
 }
